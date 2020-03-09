@@ -1,0 +1,14 @@
+[
+    {
+        "source": "RUB",
+        "dest": "USD",
+        "value": "10",
+        "date": "09.03.2020"
+    },
+    {
+        "source": "RUB",
+        "dest": "USD",
+        "value": "10",
+        "date": "10.1.2020"
+    }
+]
